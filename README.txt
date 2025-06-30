@@ -2,7 +2,7 @@
 Видео с обзоров профессии
   - https://www.youtube.com/watch?v=YzGcMst-jDU
 
-# Тестирование
+# ТЕСТИРОВАНИЕ
   Курсы:
     - https://stepik.org/course/223924/promo
     - https://stepik.org/course/115268/promo
@@ -10,13 +10,13 @@
   Ютуб:
     - https://www.youtube.com/@rusau/playlists
 
-# Общее для ИТ
+# ОБЩЕЕ ДЛЯ ИТ
   Основы Git:
     - https://ru.hexlet.io/programs/git-basics-free
   Основы командной строки:
     - https://ru.hexlet.io/programs/cli-basics
 
-# Разработка 
+# РАЗРАБОТКА 
   Нужно пытаться пописать код, хотя бы немного, тут быстро не получится нужно время чтобы уложилось, типа прошел курс, потом погулял, вернулся к нему еще раз и мозг начнет по другому воспринимать
   Курсы Python: 
     - https://stepik.org/course/58852/promo
@@ -37,10 +37,10 @@
     - https://pgexercises.com/questions/basic
     - https://stepik.org/course/63054/promo
 
-# Тренажер по ВСЕМ языкам и SQL
+# ТРЕНАЖЕР по ВСЕМ языкам и SQL
     -  https://hyperskill.org/ - если соберешся в разработку то очень советую, это именно интерактивный тренажер для разработчика + теория
 
-# Работа
+# РАБОТА
   Эта компания заявляет что проводит обучение с дальнейшим трудоустройством: https://career.astondevs.ru/courses/qa-java
   Телега - https://web.telegram.org/k/#@astontrainee
   
