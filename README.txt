@@ -1,6 +1,8 @@
 # IT-START
-Видео с обзоров профессии
-  - https://www.youtube.com/watch?v=YzGcMst-jDU
+  Видео с обзоров профессии
+    - https://www.youtube.com/watch?v=YzGcMst-jDU
+  Школа 21 век (СБЕР)
+    - https://21-school.ru/training-and-platform
 
 # ТЕСТИРОВАНИЕ
   Курсы:
