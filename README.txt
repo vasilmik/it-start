@@ -23,6 +23,8 @@
   Курсы Python: 
     - https://stepik.org/course/58852/promo
     - https://ru.hexlet.io/programs/python-basics-free
+  Хендбук Python:
+    - https://education.yandex.ru/handbook/python
   Курсы Java
     - https://stepik.org/course/115662/promo
     - https://ru.hexlet.io/programs/java-basics-free
