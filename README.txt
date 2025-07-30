@@ -11,6 +11,8 @@
     - https://ru.hexlet.io/programs/testing-basics-free
   Ютуб:
     - https://www.youtube.com/@rusau/playlists
+  Курсы от компании
+    - https://tquality.ru/education/
 
 # ОБЩЕЕ ДЛЯ ИТ
   Основы Git:
@@ -28,6 +30,8 @@
   Курсы Java
     - https://stepik.org/course/115662/promo
     - https://ru.hexlet.io/programs/java-basics-free
+  Видео JAVA:
+    - https://www.youtube.com/playlist?list=PLm2nrlGYLq1Uv1qYpqMC07JYoOXilEQZI
 
 # SQL
   Тема большая не старайся все сразу понять, даже разработчику не все нужно, тестировщику тоже
